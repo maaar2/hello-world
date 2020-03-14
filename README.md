@@ -1,2 +1,2 @@
 # hello-world
-My first public repositories.
+My first public repository.
