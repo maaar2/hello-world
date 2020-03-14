@@ -1,2 +1,2 @@
 # hello-world
-Moje pierwsze publiczne repozytorium.
+My first public repositories.
