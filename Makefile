@@ -8,4 +8,4 @@ hello-world.o:
 	$(CC) -c hello-world.c
 
 clean:
-	rm -f hello-world.o hello-world a.out ~*
+	rm -f hello-world.o hello-world a.out *~
