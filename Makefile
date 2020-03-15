@@ -11,4 +11,4 @@ hello-world.o:
 	$(CC) -c hello-world.c
 
 clean:
-	rm -f *.o *~ hello-world *.debug
+	rm -f hello-world *.debug *.out ~*
