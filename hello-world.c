@@ -1,10 +1,8 @@
-#include <stdio.h>
+#include "hello-world.h"
 
 int main()
 {
     char *msg = "Hello World!";
-
-    printf( "%s\n", msg );
-    
+    echo_message( msg );
     return 0;
 }
