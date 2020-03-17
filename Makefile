@@ -11,4 +11,4 @@ debug:
 	$(CC) $(DEBUG) hello-world.c -o hello-world.debug
 
 clean:
-	rm -f hello-world *.debug *.o *.out ~*
+	rm -f hello-world *.debug *.o *.out ~* .swp
