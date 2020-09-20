@@ -1,9 +1,7 @@
-# hello-world (eng)
+# hello-world
 
-* hello-world (eng)
-My first public repository.
-Created for testing git.
+## hello-world (eng)
+* My first public repository. Created for testing git.
 
-* witaj-swiecie (pl)
-Moje pierwsze repezytorium.
-Utworzone do testowania git-a.
+## witaj-swiecie (pl)
+* Moje pierwsze repezytorium. Utworzone do testowania git-a.
