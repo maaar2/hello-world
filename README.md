@@ -1,6 +1,6 @@
 # hello-world
 
-## hello-world (eng)
+## hello-world (en)
 * My first public repository. Created for testing git.
 
 ## witaj-swiecie (pl)
